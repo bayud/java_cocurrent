@@ -1,4 +1,8 @@
 package tasks;
 
-public class ExceptionTask {
+public class ExceptionTask implements Runnable {
+    @Override
+    public void run() {
+
+    }
 }
